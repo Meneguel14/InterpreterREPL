@@ -4,19 +4,19 @@ Este projeto é um **interpretador REPL (Read-Eval-Print Loop)** simples, desenv
 
 ---
 
-## 🧠 O que o interpretador faz?
+##  O que o interpretador faz?
 
 Este REPL é capaz de:
 
-- ✅ Avaliar expressões matemáticas com `+`, `-`, `*`, `/`
-- ✅ Utilizar parênteses para agrupar expressões: `(2 + 3) * 4`
-- ✅ Declarar variáveis: `x = 10`
-- ✅ Reutilizar variáveis em expressões: `y = x * 2`
-- ❌ Lançar exceções claras para variáveis não declaradas ou erros sintáticos
+- Avaliar expressões matemáticas com `+`, `-`, `*`, `/`
+- Utilizar parênteses para agrupar expressões: `(2 + 3) * 4`
+- Declarar variáveis: `x = 10`
+- Reutilizar variáveis em expressões: `y = x * 2`
+- Lançar exceções claras para variáveis não declaradas ou erros sintáticos
 
 ---
 
-## 💡 Como funciona?
+##  Como funciona?
 
 O interpretador funciona em 3 etapas principais:
 
