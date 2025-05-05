@@ -1,0 +1,14 @@
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\bin\Debug\net8.0\InterpretadorREPL.exe
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\bin\Debug\net8.0\InterpretadorREPL.deps.json
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\bin\Debug\net8.0\InterpretadorREPL.runtimeconfig.json
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\bin\Debug\net8.0\InterpretadorREPL.dll
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\bin\Debug\net8.0\InterpretadorREPL.pdb
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.AssemblyInfoInputs.cache
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.AssemblyInfo.cs
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.csproj.CoreCompileInputs.cache
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.dll
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\refint\InterpretadorREPL.dll
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.pdb
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\InterpretadorREPL.genruntimeconfig.cache
+C:\Users\João Henrique\source\repos\InterpretadorREPL\InterpretadorREPL\obj\Debug\net8.0\ref\InterpretadorREPL.dll
